@@ -93,7 +93,7 @@ figure {
 #fh5co-header,
 .fh5co-cover {
   background-color: transparent;
-  background-size: 100%;
+  background-size: cover;
   background-attachment: fixed;
   position: relative;
   height: 600px;
